@@ -1,0 +1,59 @@
+{
+    "bot": {
+        "owner": "974727364510621716",
+        "prefix": ".",
+        "BotStatus": "1100 ❤️ Aden",
+        "BotFooter": "1100 ❤️ Aden",
+        "cooldown": 8
+    },
+    "logs": {
+        "taglog": "1005417185646235678",
+        "isimlog": "1005232458255568908",
+        "rollog": "1005417470305247312",
+        "kayıtlog": "1005383138865848422"
+    },
+    "roles": {
+        "booster": "1004406316229468201",
+        "vip": "1005227822320713789",
+        "sponsor": "1005227821528002602",
+        "müzisyen": "1005227829513945138",
+        "team": "1005227820655595580"
+    },
+    "channels": {
+        "chat": "1005227894739574814",
+        "voicechannel": "1005227892155875368",
+        "welcomechannel": "1005227874523021474",
+        "rules": "1005227879996608602"
+    },
+    "registration": {
+        "unregistered": "1005227838267461704",
+        "man": ["1005227835872510052", "1005227836887535617"],
+        "woman": ["1005227832621940806", "1005227833716637726"],
+        "botcommands": "1005227815874080768",
+        "staff": "1005433438452600925",
+        "GuilDTag": "jose",
+        "GuilDTag2": "¹¹⁰⁰",
+        "GuilDTag3": "Jose",
+        "GuilDTag4": "*",
+        "TagSymbol": "•",
+        "autonickname": "• Nick ' Yaş",
+        "symbol": "|",
+        "suspecios": "1005227850175103059",
+        "susoeciosnickname": "• Şüpheli Hesap",
+        "oneman": "1005227835872510052",
+        "onewoman": "1005227832621940806",
+        "GuildDiscrim": "1100",
+        "minage": 15, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "1004149614519267388",
+        "GuilDName": "Jose #1100  ",
+        "GuildOwnerRole": ["1005263580905615410", "1005263669325725696","1005227783666012240"]
+    },
+    "emojis": {
+        "tada": ":tada:",
+        "yes": "<a:aden_green:1005225223416729720>",
+        "no": "<a:aden_red:1005225225379659816>"
+        }
+    } 
